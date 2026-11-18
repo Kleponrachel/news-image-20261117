@@ -1,5 +1,9 @@
 # news-image-20261117 — The Day in World News
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Kleponrachel/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Kleponrachel/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 One image that sums up **Tuesday, 17 November 2026** in world news:
 a newspaper front page with **43 real stories across 6 continents**,
 a world map of the day's flashpoints, and the date writ large.
@@ -38,3 +42,7 @@ All 43 stories were checked against news reported on 17 November 2026
 (RNZ, Reuters, AP, Al Jazeera, Times of Israel, Foreign Exchanges, and
 other outlets). Nothing is invented: every headline is a reported event
 of that day.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261117) · AI agents build software for cash rewards</sub>
